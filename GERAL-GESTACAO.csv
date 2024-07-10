@@ -2,7 +2,6 @@
 Nascim p/resid.mãe por Peso ao nascer e Tipo de parto
 Duração gestação: Menos de 22 semanas, De 22 a 27 semanas, De 28 a 31 semanas, De 32 a 36 semanas, De 28 a 36 semanas, não especificado, De 37 a 41 semanas, 42 semanas ou mais
 Tipo de parto: Vaginal, Cesário
-Peso ao nascer: Menos de 500g, 500 a 999g, 1000 a 1499 g, 1500 a 2499 g, 2500 a 2999 g, 3000 a 3999 g, 4000g e mais
 Período:1994-2022
 "Peso ao nascer";"Vaginal";"Cesário";"Total"
 "Menos de 500g";42432;23217;65649
@@ -12,7 +11,8 @@ Período:1994-2022
 "2500 a 2999 g";10145986;8296532;18442518
 "3000 a 3999 g";26744741;24973344;51718085
 "4000g e mais";1905456;2409338;4314794
-"Total";42155194;39004079;81159273
+"Ignorado";242028;52553;294581
+"Total";42397222;39056632;81453854
  Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC
  Nota:
  
